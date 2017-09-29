@@ -1,0 +1,12 @@
+name: jupyter_tutorial
+
+channels:
+ - conda-forge
+ 
+dependencies:
+- python=3.6
+- numpy
+- ipyparallel
+- bokeh
+- matplotlib
+- sympy
